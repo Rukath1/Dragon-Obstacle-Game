@@ -1,5 +1,5 @@
 # Dragon-Obstacle-Game
-A 2Dimensional game made using  CSS &amp; JavaScript
+A 2D game made using  CSS &amp; JavaScript
 
 
 Play  Here:   https://rukath1.github.io/Dragon-Obstacle-Game/
